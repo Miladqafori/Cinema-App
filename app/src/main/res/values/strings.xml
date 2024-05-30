@@ -1,0 +1,31 @@
+<resources>
+    <string name="vorod">ورود</string>
+    <string name="username">نام کاربری</string>
+    <string name="pass">کلمه عبور</string>
+    <string name="Hint1">حساب کاربری ندارید؟</string>
+    <string name="Hint2">ساخت حساب</string>
+    <string name="appname">سینما ستارگان</string>
+    <string name="text1">خوش آمدید</string>
+    <string name="buyticket">⭐️خرید بلیط⭐️</string>
+    <string name="back">صفحه قبل</string>
+    <string name="front">صفحه بعد</string>
+    <string name="vorodbebarname">ورود به برنامه</string>
+    <string name="edame">ادامه</string>
+    <string name="sabtnam">ثبت نام</string>
+    <string name="name">نام</string>
+    <string name="family">نام خانوادگی</string>
+    <string name="nextpage">صفحه بعد</string>
+    <string name="lastpage">صفحه قبل</string>
+    <string name="signupsucc2">ثبت نام شما</string>
+    <string name="signupsucc3">با موفقیت انجام شد</string>
+    <string name="version">ورژن برنامه:1.1.1</string>
+    <string name="cinema">سینما</string>
+    <string name="filmname">لطفا نام فیلم مورد نظر را وارد کنید</string>
+    <string name="role">با تمامی قوانین موافقم</string>
+    <string name="sandali">شماره صندلی</string>
+    <string name="radif">شماره ردیف</string>
+    <string name="saabt_va_kharid">ثبت و خرید</string>
+    <string name="kharidblit">خرید بلیط</string>
+
+
+</resources>

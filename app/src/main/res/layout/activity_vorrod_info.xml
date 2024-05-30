@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#181818"
+    android:orientation="vertical"
+    tools:context=".Page01">
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="390dp"
+        android:layout_height="290dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/vorrod" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="ورود و خروج ممنوع"
+        android:gravity="center"
+        android:fontFamily="@font/teafik"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_marginTop="7dp"
+        android:textColor="@color/white"
+        android:id="@+id/txt"/>
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="395dp"
+        android:layout_gravity="center"
+        android:layout_height="210dp"
+        android:layout_marginTop="40dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/voroodinfo" />
+
+    <Button
+        android:id="@+id/btnbuy"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="55dp"
+        android:background="@drawable/sabzsb"
+        android:text="خرید بلیط این فیلم" />
+</LinearLayout>
